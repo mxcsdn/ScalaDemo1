@@ -4,7 +4,7 @@ object Hello {
   def main(args: Array[String]): Unit = {
     var a: Int = 3
     println("hello")
-    println("测试1")
+    println("测试12")
     /*
 
      */
